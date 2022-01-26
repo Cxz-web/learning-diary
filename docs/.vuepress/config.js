@@ -2,6 +2,7 @@ module.exports = {
   evergreen: true,
   title: "学习笔记",
   description: "保持学习",
+  dest: './dist',
   themeConfig: {
     smoothScroll: true,
     lastUpdated: "上一次更新",
