@@ -2,7 +2,7 @@ module.exports = {
   evergreen: true,
   title: "学习笔记",
   description: "保持学习",
-  base: 'learn',
+  base: '/learn',
   dest: './dist',
   themeConfig: {
     smoothScroll: true,
